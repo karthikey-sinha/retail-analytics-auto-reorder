@@ -102,11 +102,11 @@ Unlike standard EDA projects that analyze static public datasets, this project:
 * Demonstrates ownership of the full analytics lifecycle
 
 #  Screenshots
-(https://github.com/karthikey-sinha/retail-analytics-auto-reorder/blob/main/Super_Store_Performance_Dashboard.JPG)
+![Super Store Performance Dashboard](https://github.com/karthikey-sinha/retail-analytics-auto-reorder/blob/main/Super_Store_Performance_Dashboard.JPG)
 
-(https://github.com/karthikey-sinha/retail-analytics-auto-reorder/blob/main/Inventory%20%26%20Supplier%20Dashboard.JPG)
+![Inventory Supplier Dashboard](https://github.com/karthikey-sinha/retail-analytics-auto-reorder/blob/main/Inventory%20%26%20Supplier%20Dashboard.JPG)
 
-(https://github.com/karthikey-sinha/retail-analytics-auto-reorder/blob/main/Customer%20%26%20Delivery%20Insights.JPG)
+![Customer Delivery Insights](https://github.com/karthikey-sinha/retail-analytics-auto-reorder/blob/main/Customer%20%26%20Delivery%20Insights.JPG)
 
 
 
